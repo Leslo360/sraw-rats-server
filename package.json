@@ -23,6 +23,6 @@
     "typescript": "^4.3.5"
   },
   "scripts": {
-    "start": "node ts-node src/index.ts"
+    "start": "ts-node src/index.ts"
   }
 }
